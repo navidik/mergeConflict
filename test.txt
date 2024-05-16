@@ -1,1 +1,1 @@
-city : colombo
+city : trinco
